@@ -42,6 +42,8 @@ The premise of unit testing is to see if each method created within customer, it
 integration testing was used throughout the project, the application of our choosing was Mockito. It is used to bring forth the method by testing the method itself which allows more complicated methods to be tested. 
 
 Explaination
+
+
 public void testReadAll() {
 		List<Order> items = new ArrayList<>();
 		items.addAll((Collection<? extends Order>) new Item(1L, "chewits", "1.80"));
