@@ -11,6 +11,9 @@ Getting Started
 The instructions given will allow you to access the project and have it up and running on your local machine for the development and testing purposes. 
 https://github.com/fowsia-bilkeer/Week5-Project
 
+Jira Board
+https://fowsia-bilkeer.atlassian.net/jira/software/projects/FP/boards/2/backlog
+
 Prerequisites
 The things needed to install the software and how you can install them.
 - Java 16 JDK
